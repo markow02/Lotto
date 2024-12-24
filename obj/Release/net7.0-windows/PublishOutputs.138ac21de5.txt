@@ -1,0 +1,5 @@
+C:\Users\Marcel\Downloads\LOTTO\APLIKACJA\Lotto.exe
+C:\Users\Marcel\Downloads\LOTTO\APLIKACJA\Lotto.dll
+C:\Users\Marcel\Downloads\LOTTO\APLIKACJA\Lotto.deps.json
+C:\Users\Marcel\Downloads\LOTTO\APLIKACJA\Lotto.runtimeconfig.json
+C:\Users\Marcel\Downloads\LOTTO\APLIKACJA\Lotto.pdb

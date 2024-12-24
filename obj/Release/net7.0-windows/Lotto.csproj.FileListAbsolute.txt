@@ -1,0 +1,17 @@
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\bin\Release\net7.0-windows\Lotto.exe
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\bin\Release\net7.0-windows\Lotto.deps.json
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\bin\Release\net7.0-windows\Lotto.runtimeconfig.json
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\bin\Release\net7.0-windows\Lotto.dll
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\bin\Release\net7.0-windows\Lotto.pdb
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.Lotto.resources
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.Properties.Resources.resources
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.csproj.GenerateResource.cache
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.AssemblyInfoInputs.cache
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.AssemblyInfo.cs
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.dll
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\refint\Lotto.dll
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.pdb
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\Lotto.genruntimeconfig.cache
+C:\Users\Marcel\Documents\WSB\fizyka\lotto\obj\Release\net7.0-windows\ref\Lotto.dll
